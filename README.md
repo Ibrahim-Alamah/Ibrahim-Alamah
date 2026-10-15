@@ -65,6 +65,3 @@ Specializing in architecting scalable Enterprise Backend Systems, Web Platforms,
 
 * 🏊 **Facility Operations & Billing Systems:**
   Shift tracking, inventory consumption monitoring, financial vouchers, and automated customer billing.
-
-* ⛓️ **Blockchain & Smart Contracts:**
-  Solidity smart contracts and ERC-20 token implementations.
