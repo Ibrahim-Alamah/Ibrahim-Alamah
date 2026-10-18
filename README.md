@@ -1,6 +1,7 @@
 # Hi there, I'm Ibrahim 👋
 ### **Full-Stack Software Engineer**
 Specializing in architecting scalable Enterprise Backend Systems, Web Platforms, and Cross-Platform Desktop Applications.
+![Profile Views](https://komarev.com/ghpvc/?username=Ibrahim-Alamah&color=blue&style=flat-square&label=Profile+Views)
 
 ---
 
